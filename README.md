@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Ginanjar</h1>
+<h1 align="center">Hi there 👋, I'm Ginanjar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-granzginz&label=Profile%20views&color=0e75b6&style=flat" alt="g-granzginz" /> </p>
 
